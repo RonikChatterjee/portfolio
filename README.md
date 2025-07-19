@@ -1,4 +1,8 @@
-# � Ronik Chatterjee - Portfolio Website
+# 🌟 Ronik Chatterjee - Portfolio Website
+
+<div align="center">Ronik Chatterjee - Portfolio Website
+
+## 🤖 Created by Claude Sonnet 4 ✨
 
 <div align="center">
 
