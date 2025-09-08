@@ -160,6 +160,7 @@ body {
 }
 
 .nav-link {
+  display: flex;
   text-decoration: none;
   color: var(--text-primary);
   font-weight: 500;
